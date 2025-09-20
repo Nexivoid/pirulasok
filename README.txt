@@ -1,1 +1,1 @@
-Hello, don't mind all of this weird repository, this is nothing.
+Hello, don't mind anything of this weird repository, this is nothing.
